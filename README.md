@@ -1,6 +1,10 @@
 👋 Bem-vindo ao meu perfil.
 
 
+
+
+
+
 👤Sobre mim
 
 Sou um estudante de T.I procurando melhor meus conhecimentos 
